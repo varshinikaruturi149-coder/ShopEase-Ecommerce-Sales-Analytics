@@ -94,3 +94,8 @@ This project analyzes ShopEase's sales data to identify business trends, high-pe
 ## 👩‍💻 Author
 
 Varshini
+
+
+## 📈 Monthly Sales Trend
+
+![Monthly Sales Trend](monthly-sales-trend.png)
